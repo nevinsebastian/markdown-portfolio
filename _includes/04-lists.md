@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+<ol>
+  <li>line one</li>
+  <li>line two</li>
+  <li>line three</li>
+  </ol>
