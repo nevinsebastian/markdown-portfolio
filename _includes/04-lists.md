@@ -1,3 +1,5 @@
-* list are
-* line one
-* line two
+HEY BELOW YOU CAN SEE MY FAV MOVIES
+
+* INTO THE WILD
+* CAST AWAY
+* CHURALI
